@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: baekjoon
 title: You're up and running!
 tags:
   - test

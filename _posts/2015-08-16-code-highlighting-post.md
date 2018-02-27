@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: baekjoon
 title: "Syntax Highlighting Post"
 tags: [sample post, code, highlighting]
 comments: true

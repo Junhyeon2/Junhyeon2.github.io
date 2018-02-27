@@ -1,8 +1,8 @@
 ---
 layout: post
+categories: baekjoon
 title: "Testing Readability with a Bunch of Text(Korean ver.)"
 tags: [샘플 포스트, 가독성, 테스트]
-categories: baekjoon
 comments: true
 ---
 

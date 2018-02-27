@@ -415,7 +415,7 @@ nav {
   }
 
   .date {
-    font-weight: 300;
+    font-weight: 400;
     font-size: $small-font-size;
     color: $base-lighten-color;
     margin-right: 3px;
@@ -437,8 +437,33 @@ nav {
       > a {
         margin: 3px 3px 3px 0;
         padding: .5px 4px;
+				font-weight: 500;
         color: $tag-index-label-color;
         background-color: $tag-index-label-background-color;
+        border-radius: 3px;
+      }
+    }
+  }
+
+	.category {
+    display: inline;
+    font-weight: 300;
+    font-size: $small-font-size;
+
+    li:before {
+      content: '';
+    }
+
+    li {
+      display: inline;
+      margin: 0;
+
+      > a {
+        margin: 3px 3px 3px 0;
+        padding: .5px 4px;
+				font-weight: 700;
+        color: white;
+        background-color: #0072ce;
         border-radius: 3px;
       }
     }
@@ -450,6 +475,7 @@ nav {
 
   .read-more {
     font-size: 15px;
+		text-align: right;
   }
 }
 

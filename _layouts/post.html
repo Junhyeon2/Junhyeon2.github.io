@@ -5,25 +5,41 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
-  <div clsss="meta">
-    <span class="date">
-      {{ page.date | date: "%Y-%m-%d" }}
-    </span>
-  </div>
+	<div clsss="meta" style="display: flex;">
+		<div style="flex:1;">
+			<ul class="category">
+				{% for category in page.categories %}
+				<li>
+					<a href="{{ site.url }}{{ site.baseurl }}/category/{{ category }}">
+						{{ category }}
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+		<div>
+			<span class="date">
+				{{ page.date | date: "%Y-%m-%d" }}
+			</span>
+		</div>
+	</div>
 
   <div class="entry">
     {{ content }}
   </div>
 
-	<ul class="tag">
-		{% for tag in page.tags %}
-		<li>
-			<a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
-				{{ tag }}
-			</a>
-		</li>
-		{% endfor %}
-	</ul>
+	<div>
+		<i class="fas fa-tags" style="margin-right: 5px;"></i>
+		<ul class="tag">
+			{% for tag in page.tags %}
+			<li>
+				<a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+					{{ tag }}
+				</a>
+			</li>
+			{% endfor %}
+		</ul>
+	</div>
 
   <div class="pagination">
     {% if page.previous.url %}
