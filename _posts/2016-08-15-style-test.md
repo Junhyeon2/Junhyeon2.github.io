@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: baekjoon
+categories: java
 title: "A Full and Comprehensive Style Test"
 tags: [test, style]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: baekjoon
+categories: cpp
 title: "A Full and Comprehensive Style Test(Korean ver.)"
 tags: [샘플 포스트, 테스트, 스타일]
 comments: true

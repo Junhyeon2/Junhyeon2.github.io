@@ -18,8 +18,18 @@ layout: default
 					<ul class="category">
 	          {% for category in post.categories %}
 	          <li>
-	            <a href="{{ site.url }}{{ site.baseurl }}/category/{{ category }}">
-	              {{ category }}
+	            <a class="category-{{ category }}" href="{{ site.url }}{{ site.baseurl }}/category/{{ category }}">
+                {% if category == 'c' %}
+                C
+                {% elsif category == 'cpp' %}
+                C++
+                {% elsif category == 'java' %}
+                JAVA
+                {% elsif category == 'algorithm' %}
+                Algorithm
+                {% else %}
+                {{ category }}
+                {% endif %}
 	            </a>
 	          </li>
 	          {% endfor %}

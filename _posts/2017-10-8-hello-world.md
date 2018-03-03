@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: baekjoon
+categories: cpp
 title: You're up and running!
 tags:
   - test
