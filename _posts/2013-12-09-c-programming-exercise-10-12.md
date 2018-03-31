@@ -8,28 +8,4 @@ comments: true
 
 초를 분과 초로 환산하는 프로그램
 
-```c
-#include <stdio.h>
-
-void compute_time(int *m, int *s);
-
-int main(void)
-{
-    int min, sec;
-
-    printf("시간을 입력하세요(sec): ");
-    scanf_s("%d", &sec);
-
-    compute_time(&min, &sec);
-
-    printf("입력된 시간: %d분 %d초\n", min, sec);
-
-    return 0;
-}
-
-void compute_time(int *m, int *s)
-{
-    *m = *s / 60;
-    *s = *s % 60;
-}
-```
+<script src="https://gist.github.com/Junhyeon2/144f8d2a598e587bdf2914a0738bc1b8.js"></script>

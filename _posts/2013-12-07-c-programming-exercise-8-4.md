@@ -8,24 +8,4 @@ comments: true
 
 센티미터를 피트 단위로 환산해주는 프로그램
 
-```c
-#include <stdio.h>
-
-double cm_to_feet(double value);
-
-int main(void)
-{
-    double height;
-
-    printf("당신의 키는(cm)?");
-    scanf_s("%lf", &height);
-
-    printf("키 %.1lf cm는 %.1lf feet입니다.\n", height, cm_to_feet(height));
-    return 0;
-}
-
-double cm_to_feet(double value)
-{
-    return value/30.48;
-}
-```
+<script src="https://gist.github.com/Junhyeon2/c46e86e38d5d48b73c51707359a86cab.js"></script>

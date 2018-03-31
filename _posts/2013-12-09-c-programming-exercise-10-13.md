@@ -8,17 +8,4 @@ comments: true
 
 sizeof 연산자 사용하는 예제
 
-```c
-#include <stdio.h>
-
-int main(void)
-{
-    double ary[] = {170.5, 165.3, 157.2, 160.0, 165.7};
-    int i, len = sizeof(ary)/sizeof(ary[0]);
-
-    for(i=0; i<len; i++)
-        printf("ary[%d] = %.1lf\n", i, *(ary+i));
-
-    return 0;
-}
-```
+<script src="https://gist.github.com/Junhyeon2/41f2df7460cd631e903b11d78acfe09c.js"></script>

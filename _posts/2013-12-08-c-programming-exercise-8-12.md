@@ -8,27 +8,4 @@ comments: true
 
 팩토리얼 계산 프로그램
 
-```c
-#include <stdio.h>
-
-int factorial(int n);
-
-int main(void)
-{
-    int value;
-
-    printf("n!를 구할 n을 입력하세요: ");
-    scanf_s("%d", &value);
-
-    printf("%d! = %d\n", value, factorial(value));
-}
-
-//팩토리얼을 구하는 재귀 함수
-int factorial(int n)
-{
-    if(n == 1)
-         return 1;
-    else
-        return n * factorial(n-1);
-}
-```
+<script src="https://gist.github.com/Junhyeon2/cd489b02b83dca18d498ec334656f08d.js"></script>
