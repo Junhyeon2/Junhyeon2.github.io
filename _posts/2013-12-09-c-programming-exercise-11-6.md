@@ -8,4 +8,4 @@ comments: true
 
 구조체 사용 예제 1
 
-<script src="https://gist.github.com/Junhyeon2/f8061af810609ae53ce58061a354fa4b.js"></script>
+<script src="https://gist.github.com/junbly/f8061af810609ae53ce58061a354fa4b.js"></script>

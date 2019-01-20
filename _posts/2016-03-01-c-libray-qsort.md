@@ -37,7 +37,7 @@ int compare(int elem1, int elem2);
 - qsort 함수를 사용하기 위해서는 stdlib.h 헤더의 포함이 필요합니다.
 
 ## 사용 예제
-<script src="https://gist.github.com/Junhyeon2/4707b803b7d381184e4c1ba8c61b01f3.js"></script>
+<script src="https://gist.github.com/junbly/4707b803b7d381184e4c1ba8c61b01f3.js"></script>
 
 ## 실행 결과
 ```

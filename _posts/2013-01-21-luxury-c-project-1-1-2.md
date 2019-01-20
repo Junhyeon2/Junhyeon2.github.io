@@ -29,4 +29,4 @@ comments: true
   ♥
 ```
 
-<script src="https://gist.github.com/Junhyeon2/4f78f7ae01947dedc07ed09cccaf4520.js"></script>
+<script src="https://gist.github.com/junbly/4f78f7ae01947dedc07ed09cccaf4520.js"></script>

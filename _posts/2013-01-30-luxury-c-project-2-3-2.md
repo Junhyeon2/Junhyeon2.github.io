@@ -8,4 +8,4 @@ comments: true
 
 현재의 시간과 분을 반환하는 int 형 함수 hour과 minute를 작성
 
-<script src="https://gist.github.com/Junhyeon2/da68e30a3d29e5afbf5eebe041537c82.js"></script>
+<script src="https://gist.github.com/junbly/da68e30a3d29e5afbf5eebe041537c82.js"></script>

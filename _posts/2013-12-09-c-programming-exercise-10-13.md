@@ -8,4 +8,4 @@ comments: true
 
 sizeof 연산자 사용하는 예제
 
-<script src="https://gist.github.com/Junhyeon2/41f2df7460cd631e903b11d78acfe09c.js"></script>
+<script src="https://gist.github.com/junbly/41f2df7460cd631e903b11d78acfe09c.js"></script>

@@ -8,4 +8,4 @@ comments: true
 
 입력한 문자가 한글인지 영문인지 구분하는 프로그램
 
-<script src="https://gist.github.com/Junhyeon2/791275917ab19cebcead092d79c9d6ba.js"></script>
+<script src="https://gist.github.com/junbly/791275917ab19cebcead092d79c9d6ba.js"></script>

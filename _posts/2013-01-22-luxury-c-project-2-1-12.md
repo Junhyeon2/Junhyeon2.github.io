@@ -8,4 +8,4 @@ comments: true
 
 자동차번호에 대해 차종별, 용도별, 사업용으로 구분하여 출력하는 함수 작성
 
-<script src="https://gist.github.com/Junhyeon2/ecba6712328a77f77ce4fba01fe69cd6.js"></script>
+<script src="https://gist.github.com/junbly/ecba6712328a77f77ce4fba01fe69cd6.js"></script>

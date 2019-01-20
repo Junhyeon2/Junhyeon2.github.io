@@ -8,4 +8,4 @@ comments: true
 
 가장 낮은 어는점을 출력하는 프로그램
 
-<script src="https://gist.github.com/Junhyeon2/fa59081f1c79185c404681ffe8d6d62a.js"></script>
+<script src="https://gist.github.com/junbly/fa59081f1c79185c404681ffe8d6d62a.js"></script>

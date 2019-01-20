@@ -8,4 +8,4 @@ comments: true
 
 점수를 입력하면 등수를 계산해주는 프로그램
 
-<script src="https://gist.github.com/Junhyeon2/1fd0a3bb52e928dae4428c0fff033c8a.js"></script>
+<script src="https://gist.github.com/junbly/1fd0a3bb52e928dae4428c0fff033c8a.js"></script>

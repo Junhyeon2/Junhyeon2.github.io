@@ -8,4 +8,4 @@ comments: true
 
 세계 주요도시의 현재 시간을 출력하는 프로그램
 
-<script src="https://gist.github.com/Junhyeon2/e501cec6597aed33026db7654ee7cd1f.js"></script>
+<script src="https://gist.github.com/junbly/e501cec6597aed33026db7654ee7cd1f.js"></script>

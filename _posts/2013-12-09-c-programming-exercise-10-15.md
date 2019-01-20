@@ -8,4 +8,4 @@ comments: true
 
 학점 환산 프로그램
 
-<script src="https://gist.github.com/Junhyeon2/3dc5346052ba1bebd94d4b6add5effdf.js"></script>
+<script src="https://gist.github.com/junbly/3dc5346052ba1bebd94d4b6add5effdf.js"></script>

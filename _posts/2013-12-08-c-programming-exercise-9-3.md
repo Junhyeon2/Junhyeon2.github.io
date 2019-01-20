@@ -8,4 +8,4 @@ comments: true
 
 정적변수(static) 예제 프로그램
 
-<script src="https://gist.github.com/Junhyeon2/db30b6c2e82503d7dcdd1d3cd01b047a.js"></script>
+<script src="https://gist.github.com/junbly/db30b6c2e82503d7dcdd1d3cd01b047a.js"></script>

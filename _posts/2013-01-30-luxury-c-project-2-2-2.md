@@ -14,4 +14,4 @@ comments: true
 |12지|자|축|인|묘|진|사|오|미|신|유|술|해|
 |띠|쥐|소|호랑이|토끼|용|뱀|말|양|원숭이|닭|개|돼지|
 
-<script src="https://gist.github.com/Junhyeon2/9464bd91b006a780951259858674baa6.js"></script>
+<script src="https://gist.github.com/junbly/9464bd91b006a780951259858674baa6.js"></script>

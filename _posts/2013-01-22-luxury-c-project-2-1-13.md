@@ -12,4 +12,4 @@ comments: true
 char text[] = "program을 실행하기 전에 compile을 해야 한다.";
 ```
 
-<script src="https://gist.github.com/Junhyeon2/d6276600d68d09d4d15fade6f67ea8ed.js"></script>
+<script src="https://gist.github.com/junbly/d6276600d68d09d4d15fade6f67ea8ed.js"></script>

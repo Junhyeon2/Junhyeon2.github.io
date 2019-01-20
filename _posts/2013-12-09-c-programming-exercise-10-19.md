@@ -8,4 +8,4 @@ comments: true
 
 학생 정보를 출력하는 프로그램
 
-<script src="https://gist.github.com/Junhyeon2/f03a2d3e81b6ed7a978358b7ad9e6949.js"></script>
+<script src="https://gist.github.com/junbly/f03a2d3e81b6ed7a978358b7ad9e6949.js"></script>

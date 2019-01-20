@@ -13,4 +13,4 @@ comments: true
 |phone_division("0101234567")|"010-123-4567"|
 |phone_division("01012345678")|"010-1234-5678"|
 
-<script src="https://gist.github.com/Junhyeon2/dd923b2f63574f6799bca9ffeb509bd5.js"></script>
+<script src="https://gist.github.com/junbly/dd923b2f63574f6799bca9ffeb509bd5.js"></script>

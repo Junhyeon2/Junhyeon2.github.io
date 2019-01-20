@@ -8,4 +8,4 @@ comments: true
 
 팩토리얼 계산 프로그램
 
-<script src="https://gist.github.com/Junhyeon2/cd489b02b83dca18d498ec334656f08d.js"></script>
+<script src="https://gist.github.com/junbly/cd489b02b83dca18d498ec334656f08d.js"></script>

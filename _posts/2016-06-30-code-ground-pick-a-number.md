@@ -60,4 +60,4 @@ XOR 연산은 0과 어떤 수를 연산했을 경우 결과 값은 어떤 수이
 |0|0|0|
 
 ## 문제 풀이
-<script src="https://gist.github.com/Junhyeon2/8b39133490bd18e6dabdf9799eea6cc8.js"></script>
+<script src="https://gist.github.com/junbly/8b39133490bd18e6dabdf9799eea6cc8.js"></script>

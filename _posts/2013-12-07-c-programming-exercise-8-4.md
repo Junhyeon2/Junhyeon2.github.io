@@ -8,4 +8,4 @@ comments: true
 
 센티미터를 피트 단위로 환산해주는 프로그램
 
-<script src="https://gist.github.com/Junhyeon2/c46e86e38d5d48b73c51707359a86cab.js"></script>
+<script src="https://gist.github.com/junbly/c46e86e38d5d48b73c51707359a86cab.js"></script>
