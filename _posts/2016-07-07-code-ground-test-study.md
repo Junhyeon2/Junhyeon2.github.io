@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 categories: cpp
 title: "[Code Ground] 시험 공부"
 tags: [Code Ground]

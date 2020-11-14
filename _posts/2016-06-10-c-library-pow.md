@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 categories: c
 title: "[C Library] pow 함수"
 tags: [C Library]

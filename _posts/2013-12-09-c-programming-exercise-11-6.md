@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 categories: c
 title: "[C (IT COOKBOOK)] 연습문제 11-6"
 tags: [새내기를 위한 첫 C언어 책]

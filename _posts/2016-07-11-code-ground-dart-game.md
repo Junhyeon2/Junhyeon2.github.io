@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 categories: cpp
 title: "[Code Ground] 다트 게임"
 tags: [Code Ground]

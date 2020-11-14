@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 categories: cpp
 title: "[Code Ground] 숫자 골라내기"
 tags: [Code Ground]

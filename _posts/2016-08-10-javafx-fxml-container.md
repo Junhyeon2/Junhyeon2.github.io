@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 categories: java
 title: "[JavaFX] FXML 컨테이너"
 tags: [JavaFX]

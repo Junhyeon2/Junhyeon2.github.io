@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 categories: c
 title: "[명품 C 프로젝트] 연습문제 1.1.2"
 tags: [명품 C 프로젝트]

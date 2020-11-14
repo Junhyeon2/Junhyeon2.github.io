@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 categories: cpp
 title: "[Code Ground] 프로그래밍 경진대회"
 tags: [Code Ground]
