@@ -28,4 +28,4 @@ comments: true
     *
 ```
 
-<script src="https://gist.github.com/junbly/b3b16edf0ec5c6ea834db4bf01e48a97.js"></script>
+<script src="https://gist.github.com/junne47/b3b16edf0ec5c6ea834db4bf01e48a97.js"></script>

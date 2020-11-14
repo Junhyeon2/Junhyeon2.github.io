@@ -20,7 +20,7 @@ double sin(double radian);
 - sin 함수를 사용하기 위해서는 math.h 헤더의 포함이 필요합니다.
 
 ## 사용 예제
-<script src="https://gist.github.com/junbly/cff7ea4c55fc6e24dbed2ee0d2769b72.js"></script>
+<script src="https://gist.github.com/junne47/cff7ea4c55fc6e24dbed2ee0d2769b72.js"></script>
 
 ## 실행 결과
 ```

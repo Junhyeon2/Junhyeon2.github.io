@@ -8,4 +8,4 @@ comments: true
 
 평균 계산 프로그램
 
-<script src="https://gist.github.com/junbly/f1c3650a5b879e27fa079922043f5d04.js"></script>
+<script src="https://gist.github.com/junne47/f1c3650a5b879e27fa079922043f5d04.js"></script>

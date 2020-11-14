@@ -62,4 +62,4 @@ N개의 원소 정렬에 대한 시간복잡도: O(Nlog2N)
 ```
 
 ## 문제 풀이
-<script src="https://gist.github.com/junbly/f7cd5db1b636e72da7c3e6de24b1b912.js"></script>
+<script src="https://gist.github.com/junne47/f7cd5db1b636e72da7c3e6de24b1b912.js"></script>

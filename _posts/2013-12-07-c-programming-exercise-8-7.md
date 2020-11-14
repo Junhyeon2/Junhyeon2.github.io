@@ -8,4 +8,4 @@ comments: true
 
 년도와 월을 입력받아 마지막 날을 계산해주는 프로그램
 
-<script src="https://gist.github.com/junbly/73f81756433003bc189288a7527f1eb4.js"></script>
+<script src="https://gist.github.com/junne47/73f81756433003bc189288a7527f1eb4.js"></script>

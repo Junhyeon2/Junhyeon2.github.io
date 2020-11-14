@@ -32,4 +32,4 @@ comments: true
 - 1초에 대략 1억번의 연산을 수행할 수 있으므로, 이 방법으로는 문제를 해결할 수 있다.
 
 ## 문제 풀이
-<script src="https://gist.github.com/junbly/071a10ca1a74e48291333610672aa5bf.js"></script>
+<script src="https://gist.github.com/junne47/071a10ca1a74e48291333610672aa5bf.js"></script>

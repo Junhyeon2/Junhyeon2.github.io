@@ -21,7 +21,7 @@ double pow (double base, double exponent);
 - pow 함수를 사용하기 위해서는 math.h 헤더의 포함이 필요합니다.
 
 ## 사용 예제
-<script src="https://gist.github.com/junbly/1364289aaa5431d99cc300c5977b0d75.js"></script>
+<script src="https://gist.github.com/junne47/1364289aaa5431d99cc300c5977b0d75.js"></script>
 
 ## 실행 결과
 ```

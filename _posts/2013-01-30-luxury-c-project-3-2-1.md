@@ -8,4 +8,4 @@ comments: true
 
 화살표 키를 눌러 숫자를 증가시키거나 감소시키는 프로그램
 
-<script src="https://gist.github.com/junbly/9af432ce4434fde87cb2c181517a05b6.js"></script>
+<script src="https://gist.github.com/junne47/9af432ce4434fde87cb2c181517a05b6.js"></script>

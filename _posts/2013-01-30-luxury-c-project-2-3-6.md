@@ -8,4 +8,4 @@ comments: true
 
 n분 후 또는 n초 후에 알림이 울리는 타이머 함수 작성
 
-<script src="https://gist.github.com/junbly/f1cd85ebfda97ee91fc11e5dbf926c5a.js"></script>
+<script src="https://gist.github.com/junne47/f1cd85ebfda97ee91fc11e5dbf926c5a.js"></script>

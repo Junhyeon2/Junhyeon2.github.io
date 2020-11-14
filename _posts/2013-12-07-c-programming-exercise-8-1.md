@@ -8,4 +8,4 @@ comments: true
 
 배열에 특정 값이 몇개 포함되어 있는지 찾는 프로그램
 
-<script src="https://gist.github.com/junbly/57e5f3042568da8dbdd3014c04139e8e.js"></script>
+<script src="https://gist.github.com/junne47/57e5f3042568da8dbdd3014c04139e8e.js"></script>

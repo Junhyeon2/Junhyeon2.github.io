@@ -14,4 +14,4 @@ comments: true
 |0xa2(162)|│|
 |0xab(171)|┼|
 
-<script src="https://gist.github.com/junbly/6a18d1c3b1520661f4ca2d1a6e31b35f.js"></script>
+<script src="https://gist.github.com/junne47/6a18d1c3b1520661f4ca2d1a6e31b35f.js"></script>

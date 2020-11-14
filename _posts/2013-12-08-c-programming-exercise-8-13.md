@@ -8,4 +8,4 @@ comments: true
 
 10진수를 2진수로 환산하는 프로그램
 
-<script src="https://gist.github.com/junbly/266fcd7bdde1cb0a9ed9607278c30ca2.js"></script>
+<script src="https://gist.github.com/junne47/266fcd7bdde1cb0a9ed9607278c30ca2.js"></script>

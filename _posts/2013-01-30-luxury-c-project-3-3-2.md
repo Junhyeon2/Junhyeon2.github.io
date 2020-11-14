@@ -8,4 +8,4 @@ comments: true
 
 x축의 절편과 y축의 절편을 출력하도록 프로그램 수정
 
-<script src="https://gist.github.com/junbly/b4986d3d575d6ac72d165b93f56af2bc.js"></script>
+<script src="https://gist.github.com/junne47/b4986d3d575d6ac72d165b93f56af2bc.js"></script>

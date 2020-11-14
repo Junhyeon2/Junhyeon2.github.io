@@ -70,4 +70,4 @@ comments: true
   ■
 ```
 
-<script src="https://gist.github.com/junbly/a4de786754f49653aa867074eb71e270.js"></script>
+<script src="https://gist.github.com/junne47/a4de786754f49653aa867074eb71e270.js"></script>

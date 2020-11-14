@@ -8,4 +8,4 @@ comments: true
 
 마우스 커서 이동 프로그램
 
-<script src="https://gist.github.com/junbly/60762ef44f73282ed6298b41cb120d6f.js"></script>
+<script src="https://gist.github.com/junne47/60762ef44f73282ed6298b41cb120d6f.js"></script>

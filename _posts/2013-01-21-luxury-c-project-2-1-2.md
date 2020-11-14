@@ -8,4 +8,4 @@ comments: true
 
 두 개의 문자열을 합치는 함수 작성
 
-<script src="https://gist.github.com/junbly/fa40e7f7bbb150bc90baa9a4b980ce4c.js"></script>
+<script src="https://gist.github.com/junne47/fa40e7f7bbb150bc90baa9a4b980ce4c.js"></script>

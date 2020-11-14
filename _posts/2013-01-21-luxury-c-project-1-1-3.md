@@ -14,4 +14,4 @@ comments: true
 번호를 입력하시오>
 ```
 
-<script src="https://gist.github.com/junbly/3c33180013e55a2395875f4c956e9d8f.js"></script>
+<script src="https://gist.github.com/junne47/3c33180013e55a2395875f4c956e9d8f.js"></script>

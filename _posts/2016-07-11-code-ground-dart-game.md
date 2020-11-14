@@ -41,4 +41,4 @@ comments: true
 - 1초에 대략 1억번의 연산을 수행할 수 있으므로, 이 방법으로는 문제를 해결할 수 있다.
 
 ## 문제 풀이
-<script src="https://gist.github.com/junbly/54bf29166fab7c96a9ec33911e62b166.js"></script>
+<script src="https://gist.github.com/junne47/54bf29166fab7c96a9ec33911e62b166.js"></script>
