@@ -222,9 +222,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-
-
-## => Header
-header:
-  - title:      Archive
-    url:        /archive.html
